@@ -40,6 +40,8 @@ public class RegisterActivity extends AppCompatActivity {
     private ProgressDialog pDialog;
     private SessionManager session;
     private SQLiteHandler db;
+    //testing
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
